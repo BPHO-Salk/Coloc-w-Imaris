@@ -20,6 +20,6 @@ The general workflow can be summaried as follows:
     Imaris installation directory) needs to be put in the same folder.
   - Imaris needs to be running when executing the following code. 
 
-**(C) Copyright 2018, All rights reserved. Waitt Advanced Biophotonics Core, Salk Institute for Biological Studies, 10010 N Torrey Pines Rd., San Diego, CA 92037, The United States**
+(C) Copyright 2018, All rights reserved. Waitt Advanced Biophotonics Core, Salk Institute for Biological Studies, 10010 N Torrey Pines Rd., San Diego, CA 92037, The United States
 
-**Linjing Fang, May 2018**
+Linjing Fang, May 2018
