@@ -1,4 +1,4 @@
-# BatchColoc Imaris batch for fluorescent signal colocalization
+# BatchColoc: Imaris batch for fluorescent signal colocalization
 A custom MATLAB script for proliferated cancer cell fluorescent signal 
 colocalization. 
 
