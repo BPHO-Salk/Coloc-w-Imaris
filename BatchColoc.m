@@ -26,7 +26,7 @@
 %                                  10010 N Torrey Pines Rd.
 %                                  San Diego, CA 92037
 %                                  The United States
-% Linjing Fang, May 2018
+% Linjing Fang, Uri Manor, May 2018
 %% 
 clc; clear
 %% Get the image folder. Only read *.ims images.
